@@ -1,0 +1,857 @@
+[
+    {
+        "name": "One Punch-Man",
+        "img": "/img/Logo/One-Punch-Man.jpg",
+        "imgHeader": "/../img/HeaderImg/OnePunch-Man.jpg",
+        "describe": "In this new action-comedy, everything about a young man named Saitama screams AVERAGE, from his lifeless expression, to his bald head, to his unimpressive physique.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Parody",
+            "SciFii",
+            "Super Power",
+            "Supernaturali"
+        ],
+        "author": "Yusuke Murata",
+        "Published": "Jun 14, 2012",
+        "status": "Releasing"
+    },
+    {
+        "name": "Jujutsu Kaisen",
+        "img": "/img/Logo/Jujutsu-Kaisen.jpg",
+        "imgHeader": "/../img/HeaderImg/Jujutsu-Kaisen.jpg",
+        "describe": "Although Yuji Itadori looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join",
+        "genres": [
+            "Action",
+            "School",
+            "Super Power",
+            "Supernatural",
+            "Demons",
+            "Fantasy",
+            "Drama",
+            "Mystery"
+        ],
+        "author": "Gege Akutami",
+        "Published": "Mar 04, 2018",
+        "status": "Releasing"
+    },
+    {
+        "name": "One Piece",
+        "img": "/img/Logo/One-Piece.jpg",
+        "imgHeader": "/../img/HeaderImg/One-Piece.jpg",
+        "describe": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer Red-Haired Shanks. But his life changed when Luffy accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Parody",
+            "Super Power",
+            "Adventure",
+            "Fantasy"
+        ],
+        "author": "Eiichirou Oda",
+        "Published": "Jul 22, 1997",
+        "status": "Releasing"
+    },
+    {
+        "name": "Chainsaw Man",
+        "img": "/img/Logo/Chainsaw-Man.jpg",
+        "imgHeader": "/../img/HeaderImg/Chainsaw-Man.jpg",
+        "describe": "The name says it all! Denji's life of poverty is changed forever when he merges with his pet chainsaw dog, Pochita! Now he's living in the big city and an official Devil Hunter.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "School",
+            "Parody",
+            "Supernatural",
+            "Demons",
+            "Horror"
+        ],
+        "author": "Tatsuki Fujimoto",
+        "Published": "Dec 02, 2018",
+        "status": "Releasing"
+    },
+    {
+        "name": "That Time I Got Reincarnated as a Slime",
+        "img": "/img/Logo/Reincarnated-Slime.jpg",
+        "imgHeader": "/../img/HeaderImg/Reincarnated-Slime.jpg",
+        "describe": "As players of Monster Hunter and Dungeons & Dragons know, the slime is not exactly the king of the fantasy monsters.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Demons",
+            "Adventure",
+            "Fantasy"
+        ],
+        "author": "Taiki Kawakami",
+        "Published": "Mar 25, 2015",
+        "status": "Releasing"
+    },
+    {
+        "name": "Oshi no Ko",
+        "img": "/img/Logo/OshinoKo.jpg",
+        "imgHeader": "/../img/HeaderImg/OshinoKo.jpg",
+        "describe": "Gorou is a gynecologist and idol fan who’s in shock after his favorite star, Ai, announces an impromptu hiatus. Little does Gorou realize that he’s about to forge a bond with her that defies all common sense! Lies are an idol’s weapon!",
+        "genres": [
+            "Supernatural",
+            "Mystery",
+            "Psychological",
+            "Drama"
+        ],
+        "author": "Aka Akasaka",
+        "Published": "Apr 22, 2020",
+        "status": "Hiatus"
+    },
+    {
+        "name": "Dandadan",
+        "img": "/img/Logo/Dandadan.jpg",
+        "imgHeader": "/../img/HeaderImg/Dandadan.jpg",
+        "describe": "Ghosts, monsters, aliens, teen romance, battles...and the kitchen sink! This series has it all! Takakura, an occult maniac who doesn't believe in ghosts, and Ayase, a girl who doesn't believe in aliens, try to overcome their differences when they encounter the paranormal! This manga is out of this world!",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi",
+            "Supernatural",
+            "School"
+        ],
+        "author": "Yukinobu Tatsu",
+        "Published": "Apr 05, 2021",
+        "status": "Releasing"
+    },
+    {
+        "name": "Mob Psycho 100",
+        "img": "/img/Logo/Mob-Psycho-100.jpg",
+        "imgHeader": "/../img/HeaderImg/Mob-Psycho-100.jpg",
+        "describe": "Do you or someone you know need an exorcist who works cheap? Reigen's your guy!",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Parody",
+            "Super Power",
+            "Supernatural",
+            "Demons",
+            "School"
+        ],
+        "author": "ONE",
+        "Published": "Apr 18, 2012 to Dec 22, 2017",
+        "status": "Finished"
+    },
+    {
+        "name": "Berserk",
+        "img": "/img/Logo/Berserk.jpg",
+        "imgHeader": "/../img/HeaderImg/Berserk.jpg",
+        "describe": "His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Super Power",
+            "Supernatural",
+            "Demons",
+            "Fantasy",
+            "Horror",
+            "Mystery"
+        ],
+        "author": "Kentarou Miura",
+        "Published": "Aug 25, 1989",
+        "status": "Releasing"
+    },
+    {
+        "name": "JoJo's Bizarre Adventure Part 7: Steel Ball Run",
+        "img": "/img/Logo/LOL.jpg",
+        "imgHeader": "/../img/HeaderImg/LOL.jpg",
+        "describe": "Originally presented as an unrelated story, this series was later officially declared a part of the JoJo storyline. The series stars Gyro ",
+        "genres": [
+            "Action",
+            "Drama",
+            "Comedy",
+            "Mystery",
+            "Super Power",
+            "Supernatural",
+            "Adventure"
+        ],
+        "author": "Hirohiko Araki",
+        "Published": "Jan 18, 2004 to Apr 18, 2011",
+        "status": "Finished"
+    },
+    {
+        "name": "Vagabond",
+        "img": "/img/Logo/Vagabond.jpg",
+        "imgHeader": "/../img/HeaderImg/Vagabond.jpg",
+        "describe": "At seventeen years of age, Miyamoto Musashi--still known by his childhood name, Shinmen Takezo--was a wild young brute just setting out along the way of the sword.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "author": "Takehiko Inoue",
+        "Published": "Sep 03, 1998 to May 21, 2015",
+        "status": "Finished"
+    },
+    {
+        "name": "MONSTER",
+        "img": "/img/Logo/Monster.jpg",
+        "imgHeader": "/../img/HeaderImg/Monster.jpg",
+        "describe": "Everyone faces uncertainty at some point in their lives. Even a brilliant surgeon like Kenzo Tenma is no exception.",
+        "genres": [
+            "Mystery",
+            "Drama",
+            "Psychological"
+        ],
+        "author": "Naoki Urasawa",
+        "Published": "Dec 05, 1994 to Dec 20, 2001",
+        "status": "Finished"
+    },
+    {
+        "name": "Vinland Saga",
+        "img": "/img/Logo/Vinland-Saga.jpg",
+        "imgHeader": "/../img/HeaderImg/Vinland-Saga.jpg",
+        "describe": "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "author": "Makoto Yukimura",
+        "Published": "Apr 13, 2005",
+        "status": "Releasing"
+    },
+    {
+        "name": "SLAM DUNK",
+        "img": "/img/Logo/SLAM-DUNK.jpg",
+        "imgHeader": "/../img/HeaderImg/SLAM-DUNK.jpg",
+        "describe": "Hanamichi Sakuragi's got no game with girls--none at all! It doesn't help that he's known for throwing down at a moment's notice and always coming out on top.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "author": "Makoto Yukimura",
+        "Published": "Apr 13, 2005",
+        "status": "Finished"
+    },
+    {
+        "name": "Houseki no Kuni",
+        "img": "/img/Logo/Houseki-no-Kuni.jpg",
+        "imgHeader": "/../img/HeaderImg/Houseki-no-Kuni.jpg",
+        "describe": "In a world inhabited by crystalline lifeforms called The Lustrous, every unique gem must fight for their way of life against the threat of lunarians who would turn them into decorations.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Fantasy",
+            "Psychological"
+        ],
+        "author": "Haruko Ichikawa",
+        "Published": "Oct 24, 2012",
+        "status": "Releasing"
+    },
+    {
+        "name": "Real",
+        "img": "/img/Logo/Real.jpg",
+        "imgHeader": "/../img/HeaderImg/Real.jpg",
+        "describe": "A motorcycle accident, bone cancer, a speeding truck crashing into a boy on a stolen bicycle--tragic life-changing events turn the worlds of three young men upside down.",
+        "genres": [
+            "Sports",
+            "Drama",
+            "Psychological"
+        ],
+        "author": "Takehiko Inoue",
+        "Published": "Oct 28, 1999",
+        "status": "Releasing"
+    },
+    {
+        "name": "Kingdom",
+        "img": "/img/Logo/Kingdom.jpg",
+        "imgHeader": "/../img/HeaderImg/Kingdom.jpg",
+        "describe": "Millions of years have passed since the times of legends, when the worlds of man and gods were still the same. In these times it was the desires of man that moved the world.",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "author": "Yasuhisa Hara",
+        "Published": "Jan 26, 2006",
+        "status": "Releasing"
+    },
+    {
+        "name": "Fullmetal Alchemist",
+        "img": "/img/Logo/Fullmetal-Alchemist.jpg",
+        "imgHeader": "/../img/HeaderImg/Fullmetal-Alchemist.jpg",
+        "describe": "Alchemy tore the Elric brothers’ bodies apart. Can their bond make them whole again?In this world, alchemists are those who study and perform the art of alchemical transmutation—the science of manipulating and transforming matter.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Parody",
+            "Drama",
+            "Fantasy"
+        ],
+        "author": "Hiromu Arakawa",
+        "Published": "Jul 12, 2001",
+        "status": "Finished"
+    },
+    {
+        "name": "Bakemonogatari",
+        "img": "/img/Logo/Bakemonogatari.jpg",
+        "imgHeader": "/../img/HeaderImg/Bakemonogatari.jpg",
+        "describe": "",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "School",
+            "Vampire",
+            "Supernatural"
+        ],
+        "author": "One day, high-school student Koyomi Araragi catches a girl named Hitagi Senjougahara when she trips. But—much to his surprise—she doesn’t weigh anything. At all. She says an encounter with a so-called “crab” took away all her weight …",
+        "Published": "Mar 14, 2018 to Mar 15, 2023",
+        "status": "Finished"
+    },
+    {
+        "name": "Dorohedoro",
+        "img": "/img/Logo/Dorohedoro.jpg",
+        "imgHeader": "/../img/HeaderImg/Dorohedoro.jpg",
+        "describe": "In a city so dismal it's known only as the Hole, a clan of Sorcerers have been plucking people off the streets to use as guinea pigs for atrocious experiments in the black arts. In a dark alley, Nikaido found Caiman, a man with a reptile head and a bad case of amnesia.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Mystery",
+            "Super Power",
+            "Adventure",
+            "Fantasy",
+            "Horror",
+            "Demons"
+        ],
+        "author": "Q Hayashida",
+        "Published": "Nov 30, 2000 to Sep 12, 2018",
+        "status": "Finished"
+    },
+    {
+        "name": "Hell’s Paradise : Jigokuraku",
+        "img": "/img/Logo/Hell’s-Paradise.jpg",
+        "imgHeader": "/../img/HeaderImg/Hell’s-Paradise.jpg",
+        "describe": "Gabimaru the Hollow is one of the most vicious assassins ever to come out of the ninja village of Iwagakure.",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Super Power",
+            "Supernatural",
+            "Adventure"
+        ],
+        "author": "Yuuji Kaku",
+        "Published": "Jan 21, 2018 to Jan 24, 2021",
+        "status": "Finished"
+    },
+    {
+        "name": "BEASTARS",
+        "img": "/img/Logo/BEASTARS.jpg",
+        "imgHeader": "/../img/HeaderImg/BEASTARS.jpg",
+        "describe": "One night at Cherryton Academy, an herbivore student is brutally murdered. Among the members of the Drama Club, the herbivores’ suspicions naturally turn to their carnivore classmates",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "School",
+            "Psychological"
+        ],
+        "author": "Paru Itagaki",
+        "Published": "Sep 08, 2016 to Oct 08, 2020",
+        "status": "Finished"
+    },
+    {
+        "name": "My Dearest Self With Malice Aforethought",
+        "img": "/img/Logo/My-Dearest-Self.jpg",
+        "imgHeader": "/../img/HeaderImg/My-Dearest-Self.jpg",
+        "describe": "Eiji the college-age virgin dreams of someday having a girlfriend...until he wakes up one day with his girlfriend in his bed with him! Not only that, his buddy tells him he got in a fight.",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Horror",
+            "Psychological"
+        ],
+        "author": "Hajime Inoryuu",
+        "Published": "May 07, 2018 to Sep 07, 2020",
+        "status": "Finished"
+    },
+    {
+        "name": "Ansatsu Kyoushitsu",
+        "img": "/img/Logo/Ansatsu-Kyoushitsu.jpg",
+        "imgHeader": "/../img/HeaderImg/Ansatsu-Kyoushitsu.jpg",
+        "describe": "Meet the would-be assassins of class 3-E: Sugino, who let his grades slip and got kicked off the baseball team. Karma, who’s doing well in his classes but keeps getting suspended for fighting.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi",
+            "School",
+            "Supernatural"
+        ],
+        "author": "Yuusei Matsui",
+        "Published": "Jul 02, 2012 to Apr 25, 2016",
+        "status": "Finished"
+    },
+    {
+        "name": "The Saga of Tanya the Evil",
+        "img": "/img/Logo/The-Saga-of-Tanya.jpg",
+        "imgHeader": "/../img/HeaderImg/The-Saga-of-Tanya.jpg",
+        "describe": "What would an ultra-rational Japanese salaryman do if he was reborn as a girl in a world where magic was real?",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Mystery"
+        ],
+        "author": "Carlo Zen",
+        "Published": "Apr 26, 2016",
+        "status": "Releasing"
+    },
+    {
+        "name": "Black Butler",
+        "img": "/img/Logo/BlackButler.jpg",
+        "imgHeader": "/../img/HeaderImg/BlackButler.jpg",
+        "describe": "In Victorian era Europe, a young boy loses everything he once held near and dear to a vicious plot. In his moment of death, he strikes a deal with a demon: his soul, in exchange for revenge.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Mystery",
+            "Supernatural",
+            "Demons"
+        ],
+        "author": "Mochi",
+        "Published": "Mar 27, 2009 to Aug 27, 2010",
+        "status": "Releasing"
+    },
+    {
+        "name": "Demon Slayer: Kimetsu no Yaiba",
+        "img": "/img/Logo/DemonSlayer.jpg",
+        "imgHeader": "/../img/HeaderImg/DemonSlayer.jpg",
+        "describe": "The setting is Taisho era Japan. Tanjirou is a kindhearted young boy who lived peacefully with his family as a coal seller. Their normal life changes completely when his family is slaughtered by demons.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Supernatural",
+            "Demons",
+            "Adventure",
+            "Fantasy"
+        ],
+        "author": "Koyoharu Gotouge",
+        "Published": "Feb 15, 2016 to May 18, 2020",
+        "status": "Finished"
+    },
+    {
+        "name": "CLAYMORE",
+        "img": "/img/Logo/CLAYMORE.jpg",
+        "imgHeader": "/../img/HeaderImg/CLAYMORE.jpg",
+        "describe": "A village is gripped by fear and paranoia when a Yoma claims six lives. The Claymore who is sent to slay the creature isn't what the villagers expect at all. In fact, she seems more monster than human.",
+        "genres": [
+            "Action",
+            "Horror",
+            "Fantasy",
+            "Super Power",
+            "Demons",
+            "Adventure"
+        ],
+        "author": "Norihiro Yagi",
+        "Published": "May 06, 2001 to Oct 04, 2014",
+        "status": "Finished"
+    },
+    {
+        "name": "Bleach",
+        "img": "/img/Logo/Bleach.jpg",
+        "imgHeader": "/../img/HeaderImg/Bleach.jpg",
+        "describe": "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society.",
+        "genres": [
+            "Action",
+            "Super Power",
+            "Supernatural",
+            "Adventure",
+            "Fantasy"
+        ],
+        "author": "Tite Kubo",
+        "Published": "Aug 07, 2001 to Aug 22, 2016",
+        "status": "Finished"
+    },
+    {
+        "name": "BLAME!",
+        "img": "/img/Logo/BLAME!.jpg",
+        "imgHeader": "/../img/HeaderImg/BLAME.jpg",
+        "describe": "Killy is a man of few words. He wanders, seemingly endlessly, through a lonely, gargantuan labyrinth of concrete and steel, fighting off cyborgs and other futuristic nightmares, searching only for something called Net Terminal Genes.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Horror",
+            "Psychological"
+        ],
+        "author": "Tsutomu Nihei",
+        "Published": "Jan 25, 1997 to Jul 25, 2003",
+        "status": "Finished"
+    },
+    {
+        "name": "Naruto",
+        "img": "/img/Logo/Naruto.jpg",
+        "imgHeader": "/../img/HeaderImg/Naruto.jpg",
+        "describe": "Before Naruto's birth, a great demon fox had attacked the Hidden Leaf Village. A man known as the 4th Hokage sealed the demon inside the newly born Naruto, causing him to unknowingly grow up detested by his fellow villagers.",
+        "genres": [
+            "Action",
+            "Super Power",
+            "Supernatural",
+            "Demons",
+            "Adventure",
+            "Fantasy"
+        ],
+        "author": "Masashi Kishimoto",
+        "Published": "Sep 21, 1999 to Nov 10, 2014",
+        "status": "Finished"
+    },
+    {
+        "name": "Is It Wrong to Try to Pick Up Girls in a Dungeon",
+        "img": "/img/Logo/IsItWrong.jpg",
+        "imgHeader": "/../img/HeaderImg/IsItWrong.jpg",
+        "describe": "Some adventurers delve into the sprawling labyrinths beneath the city of Orario to find fame and fortune. Others come to test their skills against the legions of monsters lurking in the darkness below.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Adventure",
+            "Fantasy"
+        ],
+        "author": "Kunieda",
+        "Published": "Aug 02, 2013 to Sep 21, 2018",
+        "status": "Finished"
+    },
+    {
+        "name": "Itou Junji Jisen Kessakushuu",
+        "img": "/img/Logo/ItouJunjiJisenKessakushuu.jpg",
+        "imgHeader": "/../img/HeaderImg/ItouJunjiJisenKessakushuu.jpg",
+        "describe": "Including nine of Junji Ito's best short stories, as selected by the author himself and presented with accompanying notes and commentary. It also includes one all new, previously unpublished story.",
+        "genres": [
+            "Mystery",
+            "Supernatural",
+            "Fantasy",
+            "Horror",
+            "Psychological"
+        ],
+        "author": "Junji Itou",
+        "Published": "2015",
+        "status": "Finished"
+    },
+    {
+        "name": "Soul Eater",
+        "img": "/img/Logo/SoulEater.jpg",
+        "imgHeader": "/../img/HeaderImg/SoulEater.jpg",
+        "describe": "In a world where technicians wield the select humans who can turn into weapons, Shinigami-sama created a school to teach young technicians and their shape shifting partners what it means to be a just death god",
+        "genres": [
+            "Action",
+            "Comedy",
+            "School",
+            "Super Power",
+            "Supernatural",
+            "Fantasy"
+        ],
+        "author": "Atsushi Ookubo",
+        "Published": "Jun 24, 2003 to Aug 12, 2013",
+        "status": "Finished"
+    },
+    {
+        "name": "The Promised Neverland",
+        "img": "/img/Logo/ThePromisedNeverland.jpg",
+        "imgHeader": "/../img/HeaderImg/ThePromisedNeverland.jpg",
+        "describe": "Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life.",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Demons",
+            "Fantasy",
+            "Horror",
+            "Psychological"
+        ],
+        "author": "Posuka Demizu",
+        "Published": "Aug 01, 2016 to Jun 15, 2020",
+        "status": "Finished"
+    },
+    {
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "img": "/img/Logo/MushokuTenseiJoblessReincarnation.jpg",
+        "imgHeader": "/../img/HeaderImg/MushokuTenseiJoblessReincarnation.jpg",
+        "describe": "Kicked out by his family and wandering the streets, an unemployed 34-year-old shut-in thinks he’s hit rock-bottom—just as he’s hit and killed by a speeding truck!",
+        "genres": [
+            "Drama",
+            "Ecchi",
+            "Demons",
+            "Adventure",
+            "Fantasy"
+        ],
+        "author": "Yuka Fujikawa",
+        "Published": "May 01, 2014",
+        "status": "Finished"
+    },
+    {
+        "name": "Uzumaki",
+        "img": "/img/Logo/Uzumaki.jpg",
+        "imgHeader": "/../img/HeaderImg/Uzumaki.jpg",
+        "describe": "Kurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world.",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Supernatural",
+            "Horror",
+            "Psychological"
+        ],
+        "author": "Junji Itou",
+        "Published": "Jan 12, 1998 to Aug 30, 1999",
+        "status": "Finished"
+    },
+    {
+        "name": "Lookism",
+        "img": "/img/Logo/Lookism.jpg",
+        "imgHeader": "/../img/HeaderImg/Lookism.jpg",
+        "describe": "Daniel is an unattractive loner who wakes up in a different body. Now tall, handsome, and cooler than ever in his new form, Daniel aims to achieve everything he couldn't before. How far will he go to keep his body... and his secrets?",
+        "genres": [
+            "Action",
+            "Drama",
+            "Comedy",
+            "Parody",
+            "School",
+            "Supernatural"
+        ],
+        "author": "Tae-Jun Park",
+        "Published": "Nov 20, 2014",
+        "status": "Releasing"
+    },
+    {
+        "name": "My Hero Academia",
+        "img": "/img/Logo/BokunoHeroAcademia.jpg",
+        "imgHeader": "/../img/HeaderImg/BokunoHeroAcademia.jpg",
+        "describe": "Middle school student Izuku Midoriya wants to be a hero more than anything, but he hasn’t got an ounce of power in him. With no chance of ever getting into the prestigious U.A.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Parody",
+            "Drama",
+            "Fantasy",
+            "Super Power"
+        ],
+        "author": "Kouhei Horikoshi",
+        "Published": "Jul 7, 2014",
+        "status": "Releasing"
+    },
+    {
+        "name": "Komi-san wa, Komyushou desu.",
+        "img": "/img/Logo/Komi-sanwaKomyushoudesu..jpg",
+        "imgHeader": "/../img/HeaderImg/KomisanwaKomyushoudesu.jpg",
+        "describe": "Timid Tadano is a total wallflower, and that’s just the way he likes it. But all that changes when he finds himself alone in a classroom on the first day of high school with the legendary Komi.",
+        "genres": [
+            "School",
+            "Comedy"
+        ],
+        "author": "Tomohito Oda",
+        "Published": "May 18, 2016",
+        "status": "Releasing"
+    },
+    {
+        "name": "Sono Bisque Doll wa Koi wo Suru",
+        "img": "/img/Logo/SonoBisqueDollwaKoiwoSuru.jpg",
+        "imgHeader": "/../img/HeaderImg/SonoBisqueDollwaKoiwoSuru.jpg",
+        "describe": "Traumatized by a childhood incident with a friend who took exception to his love of traditional dolls, doll-artisan hopeful Gojou Wakana passes his days as a loner, finding solace in the home ec room at his high school.",
+        "genres": [
+            "Comedy",
+            "Ecchi",
+            "Drama"
+        ],
+        "author": "Shinichi Fukuda",
+        "Published": "Jan 19, 2018",
+        "status": "Releasing"
+    },
+    {
+        "name": "Me and the Devil Blues: The Unreal Life of Robert Johnson",
+        "img": "/img/Logo/MeandtheDevil.jpg",
+        "imgHeader": "/../img/HeaderImg/MeandtheDevil.jpg",
+        "describe": "Legend has it that if you take your guitar and stand at a crossroads at the witching hour, the devil will appear.",
+        "genres": [
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Psychological"
+        ],
+        "author": "Akira Hiramoto",
+        "Published": "Nov 23, 2003",
+        "status": "Hiatus"
+    },
+    {
+        "name": "Fire Punch",
+        "img": "/img/Logo/FirePunch.jpg",
+        "imgHeader": "/../img/HeaderImg/FirePunch.jpg",
+        "describe": "Orphaned siblings Agni and Luna, like the Ice Witch who cursed their world, are two of the “blessed,” humans who hold special abilities.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+        ],
+        "author": "Tatsuki Fujimoto",
+        "Published": "Apr 18, 2016",
+        "status": "Finished"
+    },
+    {
+        "name": "No Longer Human",
+        "img": "/img/Logo/NoLongerHuman.jpg",
+        "imgHeader": "/../img/HeaderImg/NoLongerHuman.jpg",
+        "describe": "Mine has been a life of much shame.I can’t even guess myself what it must be to live the life of a human being.",
+        "genres": [
+            "Drama",
+            "Horror",
+            "Psychological"
+        ],
+        "author": "Junji Itou",
+        "Published": "May 2, 2017",
+        "status": "Finished"
+    },
+    {
+        "name": "Heavenly Delusion",
+        "img": "/img/Logo/HeavenlyDelusion.jpg",
+        "imgHeader": "/../img/HeaderImg/HeavenlyDelusion.jpg",
+        "describe": "Within the safety of the walls, youths are raised in a nursery-style setting by robots. While life there may appear stale on the surface, the children are full of potential and curiosity.",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Mystery"
+        ],
+        "author": "Masakazu Ishiguro",
+        "Published": "Jan 25, 2018",
+        "status": "Releasing"
+    },
+    {
+        "name": "Black Clover",
+        "img": "/img/Logo/BlackClover.jpg",
+        "imgHeader": "/../img/HeaderImg/BlackClover.jpg",
+        "describe": "Young Asta was born with no magic ability in a world where magic is everything.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "author": "Yuuki Tabata",
+        "Published": "Feb 16, 2015",
+        "status": "Hiatus"
+    },
+    {
+        "name": "Fire Force",
+        "img": "/img/Logo/FireForce.jpg",
+        "imgHeader": "/../img/HeaderImg/FireForce.jpg",
+        "describe": "Terror has paralyzed the clockwork metropolis of Tokyo! Possessed by demons, people have begun to burst into flame, leading to the establishment of a special firefighting team: the Fire Force, ready to roll on a moment's notice to fight spontaneous combustion anywhere it might break out.",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Parody",
+            "Sci-Fi",
+            "Super Power",
+            "Supernatural",
+            "Demons",
+            "Adventure",
+            "Fantasy",
+            "Mystery",
+            "Horror",
+            "Psychological",
+            "Seinen",
+            "Parody",
+            "Vampire",
+            "School",
+            "Drama",
+            "Mecha",
+            "Ecchi"
+        ],
+        "author": "Atsushi Ookubo",
+        "Published": "Sep 23, 2015",
+        "status": "Finished"
+    },
+    {
+        "name": "Tobaku Datenroku Kaiji",
+        "img": "/img/Logo/TobakuDatenrokuKaiji.jpg",
+        "imgHeader": "/../img/HeaderImg/TobakuDatenrokuKaiji.jpg",
+        "describe": "Itou Kaiji, now free of debt but without a penny is leeching himself in Mr.Sakazaki's new house, despite all the flirtings (extreme torment for Kaiji) from Sakazaki's daughter, Mikoko.",
+        "genres": [
+            "Psychological",
+            "Drama"
+        ],
+        "author": "Nobuyuki Fukumoto",
+        "Published": "Nov 1, 2004",
+        "status": "Finished"
+    },
+    {
+        "name": "Golden Kamuy",
+        "img": "/img/Logo/GoldenKamuy.jpg",
+        "imgHeader": "/../img/HeaderImg/GoldenKamuy.jpg",
+        "describe": "In the early twentieth century, Russo-Japanese War veteran Saichi “Immortal” Sugimoto scratches out a meager existence during the postwar gold rush in the wilderness of Hokkaido. When he stumbles across a map to a fortune in hidden Ainu gold, he sets off on a treacherous quest to find it.",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "author": "Satoru Noda",
+        "Published": "Aug 21, 2014",
+        "status": "Finished"
+    },
+    {
+        "name": "Bungo Stray Dogs",
+        "img": "/img/Logo/BungoStrayDogs.jpg",
+        "imgHeader": "/../img/HeaderImg/BungoStrayDogs.jpg",
+        "describe": "Having been kicked out of the orphanage, a despairing young man by the name of Atsushi Nakajima rescues a strange man from a suicide attempt--Osamu Dazai.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Supernatural",
+            "Mystery"
+        ],
+        "author": "Kafka Asagiri",
+        "Published": "Dec 4, 2012",
+        "status": "Releasing"
+    },
+    {
+        "name": "Mushishi",
+        "img": "/img/Logo/Mushishi.jpg",
+        "imgHeader": "/../img/HeaderImg/Mushishi.jpg",
+        "describe": "Some live in the deep darkness behind your eyelids. Some eat silence. Some thoughtlessly kill. Some simply drive men mad. They are known as mushi—creatures that came into being shortly after life emerged from the primordial ooze.",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Supernatural"
+        ],
+        "author": "Yuki Urushibara",
+        "Published": "Nov, 1999",
+        "status": "Finished"
+    },
+    {
+        "name": "SPY x FAMILY",
+        "img": "/img/Logo/SPYFAMILY.jpg",
+        "imgHeader": "/../img/HeaderImg/SPYFAMILY.jpg",
+        "describe": "The master spy codenamed <Twilight> has spent his days on undercover missions, all for the dream of a better world. But one day, he receives a particularly difficult new order from command!",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Supernatural"
+        ],
+        "author": "Tatsuya Endou",
+        "Published": "Mar 25, 2019",
+        "status": "Releasing"
+    },
+    {
+        "name": "Attack on Titan",
+        "img": "/img/Logo/AttackonTitan.jpg",
+        "imgHeader": "/../img/HeaderImg/AttackonTitan.jpg",
+        "describe": "In this post-apocalyptic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind.",
+        "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Demons"
+        ],
+        "author": "Hajime Isayama",
+        "Published": "Sep 9, 2009",
+        "status": "Finished"
+    }
+]
